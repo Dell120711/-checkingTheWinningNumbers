@@ -9,7 +9,7 @@
 pip install beautifulsoup4
 pip install lxml
 ```
-3.Pygame模組 python -m pip install pygame .md
+3.Pygame模組 python -m pip install`pygame` .md
 
 ## 程式執行
 
