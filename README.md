@@ -1,5 +1,5 @@
 # 對發票
-語言: Python
+> 語言: Python
 
 ## 模組匯入
 1.Request 模組 pip install requests.md
